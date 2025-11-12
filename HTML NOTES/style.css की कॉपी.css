@@ -1,0 +1,39 @@
+p {
+    color:blue;
+}
+body {
+    background-color:rgb(176, 156, 156);
+}
+button {
+    background-color: green;
+    color: rgb(29, 29, 160);
+
+}
+
+#headingone{
+    color: 
+    rgb(15, 192, 68);
+}
+#headingtwo{
+    color: 
+    rgb(26, 41, 198);
+} 
+.myclass {
+    color: rgb(225, 36, 222)
+}
+#box{
+    background-color: blue;
+    color: azure;
+}
+h1,h2,h3{
+    color: red;
+} 
+
+button{
+    background-color: rgb(230, 212, 15); color: blueviolet;}
+
+
+
+
+
+
