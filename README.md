@@ -1,2 +1,2 @@
-# Html-Css-Javascript-Bootstrap-Notes
-Html-Css-Javascript-Bootstrap-Tailwindcss Notes  are here
+# Html-Css-Javascript-Bootstrap-Tailwindcss-Notes
+Html-Css-Javascript-Bootstrap-Tailwindcss Notes are here
