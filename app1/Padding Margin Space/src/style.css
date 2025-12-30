@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* install kar ke yaha pat ham isko use kar te hai import kr ke */
+
+@theme {
+  --breakpoint-sm: 700px;
+  --breakpoint-md: 900px;
+  --breakpoint-lg: 1200px;
+  --breakpoint-xl: 1400px;
+  --padding-10: 3rem;
+  /* isis me ham padding aur margin ko use karenge ya kuch me bhi ham isko use karenge to 
+  ham jab bhi padding-10lenge to 3 rem lega  tag ka use karenge to alwaays ko set hai whai apply hoga */
+}
